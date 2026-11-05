@@ -1,0 +1,60 @@
+# Names used in the calendar titles. Edit freely: the next run applies your changes.
+
+# Opponent names, as the club's site writes them.
+#   name: name shown in the title (omit to keep the site's name)
+#   venue: short location used when the site gives no usable venue for an away game
+#   venue_full: full venue name shown in the event's location field
+opponents:
+  רוסטוק סיוולבס: {name: רוסטוק, venue: ברוסטוק, venue_full: רוסטוק}
+  דרטונה: {venue: בטורטונה, venue_full: טורטונה}
+  צדביטה אולימפיה: {venue: בלובליאנה, venue_full: לובליאנה}
+  בורגוס: {venue: בבורגוס, venue_full: בורגוס}
+  ריגה זלי: {venue: בריגה, venue_full: ריגה}
+  לה מאן: {venue: בלה מאן, venue_full: לה מאן}
+  אריס סלוניקי: {venue: בסלוניקי, venue_full: סלוניקי}
+  מכבי ת"א: {venue: ביד אליהו, venue_full: 'היכל מנורה מבטחים, ת"א'}
+  הפועל ת"א: {venue: בדרייב אין, venue_full: 'היכל קבוצת שלמה, ת"א'}
+  מכבי אשדוד: {venue: באשדוד, venue_full: 'הקריה, אשדוד'}
+  בני הרצליה: {venue: בהרצליה, venue_full: 'היובל, הרצליה'}
+  נס ציונה: {venue: בנס ציונה, venue_full: 'לב המושבה, נס ציונה'}
+  ראשון לציון: {venue: בראשון, venue_full: 'בית מכבי, ראשל"צ'}
+  הפועל אילת: {venue: באילת, venue_full: אילת}
+  הפועל העמק: {venue: בגן נר, venue_full: 'היכל חיים אוחיון, גן נר'}
+  מכבי ר"ג: {venue: ברמת גן, venue_full: 'זיסמן, רמת גן'}
+  קריית אתא: {venue: בקריית אתא, venue_full: 'רמז, קריית אתא'}
+  הפועל ב"ש: {venue: בבאר שבע, venue_full: 'הקונכייה, באר שבע'}
+  גליל עליון: {venue: בכפר בלום, venue_full: כפר בלום}
+  הפועל חולון: {venue: בחולון, venue_full: 'היכל טוטו, חולון'}
+
+# Short location for each venue name the site uses.
+venues:
+  פיס ארנה, ירושלים: בארנה
+  בלגרד: בבלגרד
+  היכל מנורה מבטחים, ת"א: ביד אליהו
+  היכל קבוצת שלמה, ת"א: בדרייב אין
+  היכל טוטו, חולון: בחולון
+  הקריה, אשדוד: באשדוד
+  אנרבוקס, חדרה: בחדרה
+  לובליאנה: בלובליאנה
+  בורגוס: בבורגוס
+  לה מאן: בלה מאן
+  טורטונה: בטורטונה
+  סלוניקי: בסלוניקי
+  מלחה: במלחה
+  וילנה: בוילנה
+  היובל, הרצליה: בהרצליה
+  כפר בלום: בכפר בלום
+  הקונכייה, באר שבע: בבאר שבע
+  היכל חיים אוחיון, גן נר: בגן נר
+  זיסמן, רמת גן: ברמת גן
+  לב המושבה, נס ציונה: בנס ציונה
+  רמז, קריית אתא: בקריית אתא
+  בית מכבי, ראשל"צ: בראשון
+
+# Channel names, as the site writes them, when they should look different in the title.
+channels:
+  ספורט1: ספורט 1
+  ספורט2: ספורט 2
+  ספורט3: ספורט 3
+  ספורט4: ספורט 4
+  ספורט5: ספורט 5
