@@ -66,8 +66,8 @@ def test_finished_game_has_score_and_upcoming_does_not(games):
         ("26811-5", 'מכבי ת"א בארנה'),  # home league, no venue on the site
         ("26662-5", 'הפועל ת"א בדרייב אין | 5SPORT'),  # the example from the request
         ("9972-1012", "אריס סלוניקי בבלגרד | ספורט 1"),  # home EuroCup
-        ("9981-1012", "רוסטוק ברוסטוק"),  # away, site wrongly says Belgrade; sponsor dropped
-        ("10001-1012", "ריגה זלי בריגה"),  # same site error
+        ("9981-1012", "רוסטוק בחוץ"),  # away EuroCup; sponsor dropped
+        ("10001-1012", "ריגה זלי בחוץ"),  # away EuroCup
         ("9991-1012", "צדביטה אולימפיה בבלגרד"),
         ("26763-5", "הפועל העמק בגן נר"),  # non-breaking space in the site's name
         ("26844-10", 'מכבי ת"א בחולון | 5SPORT'),  # neutral cup venue beats the opponent's home
@@ -75,6 +75,16 @@ def test_finished_game_has_score_and_upcoming_does_not(games):
 )
 def test_titles(games, uid, title):
     assert uc.format_title(games[uid], MAPPINGS) == title
+
+
+def test_away_eurocup_keeps_real_location_in_the_event(games):
+    # The site wrongly says Belgrade for this away game.
+    assert uc.resolve_venue(games["9981-1012"], MAPPINGS)[0] == "ברוסטוק"
+
+
+def test_away_eurocup_without_known_venue_still_says_away():
+    game = uc.Game("1-1012", "2026-12-01", None, "יורוקאפ", False, "קבוצה חדשה", "", None, None)
+    assert uc.format_title(game, MAPPINGS) == "קבוצה חדשה בחוץ"
 
 
 def test_unknown_venue_falls_back_to_opponent_only():

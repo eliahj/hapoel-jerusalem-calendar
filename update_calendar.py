@@ -40,6 +40,7 @@ NO_CHANNEL_TEXT = "שידור טרם נקבע"
 HOME_TEXT = "משחק בית"
 AWAY_TEXT = "משחק חוץ"
 EUROCUP_TEXT = "יורוקאפ"
+AWAY_TITLE_TEXT = "בחוץ"
 BELGRADE = "בלגרד"
 HOME_ARENA = "פיס ארנה, ירושלים"
 GAME_MINUTES = 120
@@ -206,7 +207,10 @@ def format_title(game: Game | dict, mappings: dict) -> str:
     g = _as_dict(game)
     opponent = mappings.get("opponents", {}).get(g["opponent"]) or {}
     title = opponent.get("name", g["opponent"])
-    short_venue, _ = resolve_venue(g, mappings)
+    if not g["is_home"] and g["competition"].startswith(EUROCUP_TEXT):
+        short_venue = AWAY_TITLE_TEXT
+    else:
+        short_venue, _ = resolve_venue(g, mappings)
     if short_venue:
         title = f"{title} {short_venue}"
     if g["channel"]:

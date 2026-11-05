@@ -15,6 +15,7 @@ Google refreshes subscribed calendars on its own schedule, often taking 12–24 
 
 ## What the events show
 
+- **`בחוץ` in the title:** an away EuroCup game, for example `דרטונה בחוץ`. The city and arena are in the event details.
 - **No channel in the title:** the club hasn't published one yet.
 - **All-day event:** the start time isn't final yet.
 - **Event details:** competition, home or away, venue, channel, result and last update.
