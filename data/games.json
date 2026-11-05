@@ -268,10 +268,10 @@
       "is_home": false,
       "opponent": "מכבי ת\"א",
       "site_venue": "היכל מנורה מבטחים, ת\"א",
-      "channel": "STALE-TEST",
+      "channel": null,
       "score": null,
-      "sequence": 0,
-      "updated": "2026-11-05T12:27:25+00:00"
+      "sequence": 1,
+      "updated": "2026-11-05T12:31:17+00:00"
     },
     "9981-1012": {
       "uid": "9981-1012",
