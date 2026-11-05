@@ -1,6 +1,6 @@
-# Hapoel Jerusalem basketball calendar
+# Hapoel Jerusalem basketball calendar (not official)
 
-A calendar of all Hapoel Jerusalem basketball games, with the TV channel in each title, for example `מכבי ת"א בארנה | 5PLUS`.
+A calendar of all Hapoel Jerusalem basketball games (not official), with the TV channel in each title, for example `מכבי ת"א בארנה | 5PLUS`.
 
 The data comes from the [club's schedule](https://www.hapoel.co.il/games.asp?cYear=2027). A GitHub job checks it twice a day and updates the calendar when something changes.
 
