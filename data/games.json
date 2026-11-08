@@ -280,11 +280,11 @@
       "competition": "יורוקאפ",
       "is_home": false,
       "opponent": "רוסטוק סיוולבס",
-      "site_venue": "בלגרד",
+      "site_venue": "רוסטוק",
       "channel": null,
       "score": null,
-      "sequence": 1,
-      "updated": "2026-11-05T12:45:47+00:00"
+      "sequence": 2,
+      "updated": "2026-11-08T17:23:10+00:00"
     },
     "26690-5": {
       "uid": "26690-5",
@@ -302,15 +302,15 @@
     "26697-5": {
       "uid": "26697-5",
       "date": "2026-12-06",
-      "time": null,
-      "competition": "(לא סופי)",
+      "time": "20:15",
+      "competition": "ליגת Winner סל, מחזור 8",
       "is_home": false,
       "opponent": "בני הרצליה",
-      "site_venue": "",
+      "site_venue": "היובל, הרצליה",
       "channel": null,
       "score": null,
-      "sequence": 0,
-      "updated": "2026-11-05T12:27:25+00:00"
+      "sequence": 1,
+      "updated": "2026-11-08T17:23:10+00:00"
     },
     "9991-1012": {
       "uid": "9991-1012",
@@ -328,15 +328,15 @@
     "26704-5": {
       "uid": "26704-5",
       "date": "2026-12-13",
-      "time": null,
-      "competition": "(לא סופי)",
+      "time": "18:30",
+      "competition": "ליגת Winner סל, מחזור 9",
       "is_home": false,
       "opponent": "נס ציונה",
-      "site_venue": "",
+      "site_venue": "לב המושבה, נס ציונה",
       "channel": null,
       "score": null,
-      "sequence": 0,
-      "updated": "2026-11-05T12:27:25+00:00"
+      "sequence": 1,
+      "updated": "2026-11-08T17:23:10+00:00"
     },
     "9996-1012": {
       "uid": "9996-1012",
