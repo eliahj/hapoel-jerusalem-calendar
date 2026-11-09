@@ -295,15 +295,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:game-26682-5@hapoel-jerusalem-calendar
-DTSTAMP:20261105T123117Z
-LAST-MODIFIED:20261105T123117Z
-SEQUENCE:1
+DTSTAMP:20261109T174611Z
+LAST-MODIFIED:20261109T174611Z
+SEQUENCE:2
 DTSTART;TZID=Asia/Jerusalem:20261114T205500
 DTEND;TZID=Asia/Jerusalem:20261114T225500
-SUMMARY:מכבי ת"א ביד אליהו
+SUMMARY:מכבי ת"א ביד אליהו | 5SPORT
 DESCRIPTION:ליגת Winner סל\, מחזור 6\nמשחק חוץ\nמיקו
- ם: היכל מנורה מבטחים\, ת"א\nשידור: טרם נקבע\
- nעודכן: 05/11/2026 14:31
+ ם: היכל מנורה מבטחים\, ת"א\nשידור: 5SPORT\nעודכ
+ ן: 09/11/2026 19:46
 LOCATION:היכל מנורה מבטחים\, ת"א
 TRANSP:TRANSPARENT
 END:VEVENT
