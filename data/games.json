@@ -256,9 +256,9 @@
       "opponent": "דרטונה",
       "site_venue": "טורטונה",
       "channel": "ספורט1",
-      "score": null,
-      "sequence": 1,
-      "updated": "2026-11-05T12:45:47+00:00"
+      "score": "91:77",
+      "sequence": 2,
+      "updated": "2026-11-11T23:14:05+00:00"
     },
     "26682-5": {
       "uid": "26682-5",
@@ -281,10 +281,10 @@
       "is_home": false,
       "opponent": "רוסטוק סיוולבס",
       "site_venue": "רוסטוק",
-      "channel": null,
+      "channel": "ספורט1",
       "score": null,
-      "sequence": 2,
-      "updated": "2026-11-08T17:23:10+00:00"
+      "sequence": 3,
+      "updated": "2026-11-11T23:14:05+00:00"
     },
     "26690-5": {
       "uid": "26690-5",
@@ -294,10 +294,10 @@
       "is_home": true,
       "opponent": "מכבי אשדוד",
       "site_venue": "פיס ארנה, ירושלים",
-      "channel": null,
+      "channel": "5SPORT",
       "score": null,
-      "sequence": 0,
-      "updated": "2026-11-05T12:27:25+00:00"
+      "sequence": 1,
+      "updated": "2026-11-11T23:14:05+00:00"
     },
     "26697-5": {
       "uid": "26697-5",
