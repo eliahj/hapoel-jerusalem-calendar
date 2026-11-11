@@ -357,12 +357,12 @@
       "time": null,
       "competition": "(לא סופי)",
       "is_home": true,
-      "opponent": "מכבי ר\"ג",
+      "opponent": "מכבי רמת גן",
       "site_venue": "",
       "channel": null,
       "score": null,
-      "sequence": 0,
-      "updated": "2026-11-05T12:27:25+00:00"
+      "sequence": 1,
+      "updated": "2026-11-11T12:27:39+00:00"
     },
     "10001-1012": {
       "uid": "10001-1012",
@@ -371,11 +371,11 @@
       "competition": "יורוקאפ",
       "is_home": false,
       "opponent": "ריגה זלי",
-      "site_venue": "בלגרד",
+      "site_venue": "ריגה",
       "channel": null,
       "score": null,
-      "sequence": 1,
-      "updated": "2026-11-05T12:45:47+00:00"
+      "sequence": 2,
+      "updated": "2026-11-11T12:27:39+00:00"
     },
     "26719-5": {
       "uid": "26719-5",
@@ -526,12 +526,12 @@
       "time": null,
       "competition": "(לא סופי)",
       "is_home": false,
-      "opponent": "מכבי ר\"ג",
+      "opponent": "מכבי רמת גן",
       "site_venue": "",
       "channel": null,
       "score": null,
-      "sequence": 0,
-      "updated": "2026-11-05T12:27:25+00:00"
+      "sequence": 1,
+      "updated": "2026-11-11T12:27:39+00:00"
     },
     "26791-5": {
       "uid": "26791-5",
