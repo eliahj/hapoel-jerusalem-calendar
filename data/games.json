@@ -384,11 +384,11 @@
       "competition": "(לא סופי)",
       "is_home": true,
       "opponent": "קריית אתא",
-      "site_venue": "",
+      "site_venue": "פיס ארנה, ירושלים",
       "channel": null,
       "score": null,
-      "sequence": 0,
-      "updated": "2026-11-05T12:27:25+00:00"
+      "sequence": 1,
+      "updated": "2026-11-19T14:08:35+00:00"
     },
     "10006-1012": {
       "uid": "10006-1012",
@@ -410,11 +410,11 @@
       "competition": "(לא סופי)",
       "is_home": false,
       "opponent": "ראשון לציון",
-      "site_venue": "",
+      "site_venue": "בית מכבי, ראשל\"צ",
       "channel": null,
       "score": null,
-      "sequence": 0,
-      "updated": "2026-11-05T12:27:25+00:00"
+      "sequence": 1,
+      "updated": "2026-11-19T14:08:35+00:00"
     },
     "10007-1012": {
       "uid": "10007-1012",
@@ -436,11 +436,11 @@
       "competition": "(לא סופי)",
       "is_home": true,
       "opponent": "גליל עליון",
-      "site_venue": "",
+      "site_venue": "פיס ארנה, ירושלים",
       "channel": null,
       "score": null,
-      "sequence": 0,
-      "updated": "2026-11-05T12:27:25+00:00"
+      "sequence": 1,
+      "updated": "2026-11-19T14:08:35+00:00"
     },
     "10012-1012": {
       "uid": "10012-1012",
