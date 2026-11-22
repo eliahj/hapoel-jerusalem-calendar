@@ -390,15 +390,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:game-26711-5@hapoel-jerusalem-calendar
-DTSTAMP:20261118T231345Z
-LAST-MODIFIED:20261118T231345Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
+DTSTAMP:20261122T221439Z
+LAST-MODIFIED:20261122T221439Z
+SEQUENCE:3
+DTSTART;TZID=Asia/Jerusalem:20261220T205500
+DTEND;TZID=Asia/Jerusalem:20261220T225500
 SUMMARY:מכבי רמת גן בארנה
-DESCRIPTION:(לא סופי)\nמשחק בית\nמיקום: פיס ארנה\,
-  ירושלים\nשידור: טרם נקבע\nשעת המשחק טרם נ
- קבעה\nעודכן: 19/11/2026 01:13
+DESCRIPTION:ליגת Winner סל\, מחזור 10\nמשחק בית\nמיקו
+ ם: פיס ארנה\, ירושלים\nשידור: טרם נקבע\nעוד
+ כן: 23/11/2026 00:14
 LOCATION:פיס ארנה\, ירושלים
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -417,15 +417,15 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:game-26719-5@hapoel-jerusalem-calendar
-DTSTAMP:20261119T140835Z
-LAST-MODIFIED:20261119T140835Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
+DTSTAMP:20261122T221439Z
+LAST-MODIFIED:20261122T221439Z
+SEQUENCE:2
+DTSTART;TZID=Asia/Jerusalem:20261227T201500
+DTEND;TZID=Asia/Jerusalem:20261227T221500
 SUMMARY:קריית אתא בארנה
-DESCRIPTION:(לא סופי)\nמשחק בית\nמיקום: פיס ארנה\,
-  ירושלים\nשידור: טרם נקבע\nשעת המשחק טרם נ
- קבעה\nעודכן: 19/11/2026 16:08
+DESCRIPTION:ליגת Winner סל\, מחזור 11\nמשחק בית\nמיקו
+ ם: פיס ארנה\, ירושלים\nשידור: טרם נקבע\nעוד
+ כן: 23/11/2026 00:14
 LOCATION:פיס ארנה\, ירושלים
 TRANSP:TRANSPARENT
 END:VEVENT

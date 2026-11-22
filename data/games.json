@@ -354,15 +354,15 @@
     "26711-5": {
       "uid": "26711-5",
       "date": "2026-12-20",
-      "time": null,
-      "competition": "(לא סופי)",
+      "time": "20:55",
+      "competition": "ליגת Winner סל, מחזור 10",
       "is_home": true,
       "opponent": "מכבי רמת גן",
       "site_venue": "פיס ארנה, ירושלים",
       "channel": null,
       "score": null,
-      "sequence": 2,
-      "updated": "2026-11-18T23:13:45+00:00"
+      "sequence": 3,
+      "updated": "2026-11-22T22:14:39+00:00"
     },
     "10001-1012": {
       "uid": "10001-1012",
@@ -380,15 +380,15 @@
     "26719-5": {
       "uid": "26719-5",
       "date": "2026-12-27",
-      "time": null,
-      "competition": "(לא סופי)",
+      "time": "20:15",
+      "competition": "ליגת Winner סל, מחזור 11",
       "is_home": true,
       "opponent": "קריית אתא",
       "site_venue": "פיס ארנה, ירושלים",
       "channel": null,
       "score": null,
-      "sequence": 1,
-      "updated": "2026-11-19T14:08:35+00:00"
+      "sequence": 2,
+      "updated": "2026-11-22T22:14:39+00:00"
     },
     "10006-1012": {
       "uid": "10006-1012",
